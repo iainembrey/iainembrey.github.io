@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Academic</title>
+    <title>Authors | Iain Embrey</title>
     <link>https://iainembrey.github.io/authors/</link>
       <atom:link href="https://iainembrey.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Iain Embrey</copyright>
     <image>
       <url>https://iainembrey.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -17,9 +17,10 @@
       <link>https://iainembrey.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://iainembrey.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+      <description>&lt;p&gt;I work toward equality of opportunity. My research shows that ostensibly poor life choices in adolescence may
+arise as an optimal response to early disadvantage. But I also find that adolescents are capable of exerting
+consious control over those choices and their future developmental pathway. My early research sought to
+understand intergenerational poverty; I now also work to change it.&lt;/p&gt;
 </description>
     </item>
     
