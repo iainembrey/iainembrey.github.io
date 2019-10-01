@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>10 | Iain Embrey</title>
+    <link>https://iainembrey.github.io/publication_types/10/</link>
+      <atom:link href="https://iainembrey.github.io/publication_types/10/index.xml" rel="self" type="application/rss+xml" />
+    <description>10</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Iain Embrey</copyright><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://iainembrey.github.io/img/face.png</url>
+      <title>10</title>
+      <link>https://iainembrey.github.io/publication_types/10/</link>
+    </image>
+    
+    <item>
+      <title>Noncognitive Skills: Theory and empirics</title>
+      <link>https://iainembrey.github.io/publication/2019-noncog/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://iainembrey.github.io/publication/2019-noncog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Re-Estimating the Technology of Cognitive and Noncognitive Skill Formation</title>
+      <link>https://iainembrey.github.io/publication/2019-re-est/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://iainembrey.github.io/publication/2019-re-est/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Education Trap: Could a grades-focussed educational system be perpetuating poverty in advanced economies?</title>
+      <link>https://iainembrey.github.io/publication/2019-ed-trap/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://iainembrey.github.io/publication/2019-ed-trap/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

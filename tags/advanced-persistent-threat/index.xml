@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Advanced persistent threat | Iain Embrey</title>
+    <link>https://iainembrey.github.io/tags/advanced-persistent-threat/</link>
+      <atom:link href="https://iainembrey.github.io/tags/advanced-persistent-threat/index.xml" rel="self" type="application/rss+xml" />
+    <description>Advanced persistent threat</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Iain Embrey</copyright><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://iainembrey.github.io/img/face.png</url>
+      <title>Advanced persistent threat</title>
+      <link>https://iainembrey.github.io/tags/advanced-persistent-threat/</link>
+    </image>
+    
+    <item>
+      <title>Many Phish in the C: A coexisting-choice-criteria model of security behavior</title>
+      <link>https://iainembrey.github.io/publication/2018-phish/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://iainembrey.github.io/publication/2018-phish/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

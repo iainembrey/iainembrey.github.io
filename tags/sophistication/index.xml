@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sophistication | Iain Embrey</title>
+    <link>https://iainembrey.github.io/tags/sophistication/</link>
+      <atom:link href="https://iainembrey.github.io/tags/sophistication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sophistication</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Iain Embrey</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://iainembrey.github.io/img/face.png</url>
+      <title>Sophistication</title>
+      <link>https://iainembrey.github.io/tags/sophistication/</link>
+    </image>
+    
+    <item>
+      <title>Education as a Participation Game: An explanation for educational under-investment</title>
+      <link>https://iainembrey.github.io/publication/2019-ed-part-game/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://iainembrey.github.io/publication/2019-ed-part-game/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
